@@ -1,0 +1,13 @@
+{
+	"age" : 27,
+	"firstName": "musa",
+	"lastName": "macheke",
+	"active": true,
+	"address": {
+		"street": "94 Main St",
+		"city" :"Johannesburg",
+		"province" : "Guateng",
+		"country" : "South Africa"
+	},
+	"languages": ["Java", "C#", "Python", "JavScript"]
+}
